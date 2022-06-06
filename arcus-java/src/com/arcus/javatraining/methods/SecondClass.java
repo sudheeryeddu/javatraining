@@ -1,4 +1,5 @@
-package com.arcus.javatraining;
+package com.arcus.javatraining.methods;
+
 public class SecondClass {
 	
 	public static void main(String args[]) {

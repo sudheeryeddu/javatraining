@@ -1,4 +1,4 @@
-package com.arcus.javatraining;
+package com.arcus.javatraining.methods;
 
 public class FirstClass {
 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.arcus.javatraining;
+package com.arcus.javatraining.overloading.methodoverloading;
 
 /**
  * @author sudheeryeddu
